@@ -4,8 +4,8 @@
 
 I am a software engineer focused on building scalable distributed systems and automating cloud infrastructure. 
 
-- 🏦 **Recent Internship:** Software Engineer Intern @ **DBS Bank**, where I built AI-powered validation systems using Gemini-based models.
-- ☁️ **Cloud Specialist:** Experienced in AWS, Terraform, and CI/CD automation (92% deployment time reduction).
+- 🏦 **Recent Internship:** Software Engineer Intern @ **DBS Bank**
+- ☁️ **Cloud Specialist:** Experienced in AWS, Terraform, and CI/CD automation.
 - 🏗️ **Back-end Heavy:** Expert in Spring Boot, Elasticsearch (Parent-Child Indexing), and RabbitMQ.
 
 ---
@@ -23,8 +23,8 @@ I am a software engineer focused on building scalable distributed systems and au
 
 ### 📈 GitHub Stats
 
-![Hanson's GitHub stats](https://github-readme-stats.vercel.app/api?username=chs415009&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chs415009&layout=compact&theme=radical)
+![Hanson's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=chs415009&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chs415009&layout=compact&theme=radical)
 
 ---
 
